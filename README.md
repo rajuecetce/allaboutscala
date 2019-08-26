@@ -1,0 +1,2 @@
+# allaboutscala
+For learning scala
